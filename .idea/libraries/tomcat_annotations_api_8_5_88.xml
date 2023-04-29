@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tomcat-annotations-api-8.5.88">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/tomcat-annotations-api-8.5.88.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

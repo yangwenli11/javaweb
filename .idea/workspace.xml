@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="com.nwnu:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="77ba97e6-9222-4223-a5e0-f84608938966" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/com_nwnu_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/com_nwnu_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_66.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_21_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mysql_mysql_connector_j_8_0_33.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_88.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_88.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/fastjson_1_2_68.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_j_8_0_33.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/protobuf_java_3_21_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/tomcat_annotations_api_8_5_88.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.nwnu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comnwnu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dbutil/Dbconn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/servlet/insertServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/servlet/uploadServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/6.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/fastjson-1.2.68.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/allShow.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dele.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/deleShow.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/insert.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/insertShow.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/xlsx.core.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/search.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/showUser.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/update.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/updateShow.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/dbutil/Dbconn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/entity/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/Model.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/insertServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/uploadServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/com.nwnu.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/com.nwnu/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/com.nwnu/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/com.nwnu/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/com.nwnu/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/com.nwnu/6.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/com.nwnu/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/com.nwnu/WEB-INF/classes/dbutil/Dbconn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/com.nwnu/WEB-INF/classes/entity/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/com.nwnu/WEB-INF/classes/model/Model.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/com.nwnu/WEB-INF/classes/servlet/insertServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/com.nwnu/WEB-INF/classes/servlet/uploadServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/com.nwnu/WEB-INF/lib/fastjson-1.2.66.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/com.nwnu/WEB-INF/lib/fastjson-1.2.68.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/com.nwnu/WEB-INF/lib/mysql-connector-j-8.0.33.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/com.nwnu/WEB-INF/lib/mysql-connector-java-8.0.27.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/com.nwnu/WEB-INF/lib/protobuf-java-3.21.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/com.nwnu/WEB-INF/lib/servlet-api-2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/com.nwnu/WEB-INF/lib/tomcat-annotations-api-8.5.88.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/com.nwnu/WEB-INF/lib/tomcat-embed-core-8.5.88.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/com.nwnu/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/com.nwnu/allShow.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/com.nwnu/dele.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/com.nwnu/deleShow.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/com.nwnu/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/com.nwnu/insert.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/com.nwnu/insertShow.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/com.nwnu/js/xlsx.core.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/com.nwnu/search.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/com.nwnu/showUser.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/com.nwnu/update.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/com.nwnu/updateShow.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2P4pXC7rN8NhO76sV9JdFEx1G3u" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\zhuomian\nwnu\src\main\webapp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\zhuomian\nwnu\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn install" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 8.5.88" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.88" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:5000/index/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="com.nwnu:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/index" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_nwnu" />
+        <option name="HTTP_PORT" value="5000" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="63340" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="com.nwnu:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77ba97e6-9222-4223-a5e0-f84608938966" name="Default Changelist" comment="" />
+      <created>1682726245102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682726245102</updated>
+      <workItem from="1682726246552" duration="2119000" />
+      <workItem from="1682728448119" duration="1346000" />
+      <workItem from="1682730769095" duration="5246000" />
+      <workItem from="1682739497602" duration="285000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
